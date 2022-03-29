@@ -1,0 +1,23 @@
+{
+  "name": "mongo-express-node-insomnia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kieran-Tahir/mongo-express-node-insomnia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kieran-Tahir/mongo-express-node-insomnia/issues"
+  },
+  "homepage": "https://github.com/Kieran-Tahir/mongo-express-node-insomnia#readme"
+}
